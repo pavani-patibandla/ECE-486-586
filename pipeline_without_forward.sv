@@ -1,5 +1,5 @@
 
-//Pipeline without forward structure
+//Pipeline without forward structure edited by Gowthami Budideti
 module pipeline_without_forward(output bit done);
 
 
